@@ -1,0 +1,1 @@
+include ":fizzBuzz", ":legacyRescueKata", ":romanNumerals", ":simpleMockKata", ":gildedRose"

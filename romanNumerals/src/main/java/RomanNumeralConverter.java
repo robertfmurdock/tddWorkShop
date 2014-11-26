@@ -1,6 +1,6 @@
 public class RomanNumeralConverter {
 
     public static Integer convert(String numeralText) {
-        return 0;
+        return 1;
     }
 }

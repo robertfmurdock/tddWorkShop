@@ -1,5 +1,9 @@
 .classpath
 .project
 .idea/workspace.xml
+.idea/dictionaries/*
+.gradle
+fizzbuzz/target
 bin
+build
 out
