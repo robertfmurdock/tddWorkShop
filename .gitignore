@@ -1,9 +1,9 @@
 .classpath
 .project
 .idea/workspace.xml
-.idea/dictionaries/*
 .gradle
 fizzbuzz/target
+.idea/dictionaries
 bin
 build
 out
