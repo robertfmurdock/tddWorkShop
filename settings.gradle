@@ -1,1 +1,1 @@
-include ":fizzBuzz", ":legacyRescueKata", ":romanNumerals", ":simpleMockKata", ":gildedRose"
+include ":fizzBuzz", ":integrationKata", ":legacyRescueKata", ":romanNumerals", ":renewalMockKata", ":gildedRose"
